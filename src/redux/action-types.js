@@ -1,0 +1,1 @@
+export const GET_VARIABLES = 'GET_VARIABLES'
